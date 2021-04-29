@@ -15,6 +15,8 @@ library(car)
 library(keras)
 
 
+
+
 boxoffice <- read.csv("C:/Users/Elliot/Desktop/CS/Spring 2021/MATH 4323/Project/archive/tmdb_movies_data.csv", nrows=250)
 View(boxoffice)
 #boxoffice_march_2019 <- read.csv("C:/Users/Elliot/Desktop/CS/Spring 2021/MATH 4323/Project/archive")
